@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TCP_IP.iml" filepath="$PROJECT_DIR$/TCP_IP.iml" />
       <module fileurl="file://$PROJECT_DIR$/TimeServerApp/TimeServerApp.iml" filepath="$PROJECT_DIR$/TimeServerApp/TimeServerApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WHOIS client/WHOIS client.iml" filepath="$PROJECT_DIR$/WHOIS client/WHOIS client.iml" />
     </modules>
   </component>
 </project>
