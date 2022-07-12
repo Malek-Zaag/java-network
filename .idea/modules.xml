@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/NIST_TIME/NIST_TIME.iml" filepath="$PROJECT_DIR$/NIST_TIME/NIST_TIME.iml" />
       <module fileurl="file://$PROJECT_DIR$/TCP_IP.iml" filepath="$PROJECT_DIR$/TCP_IP.iml" />
       <module fileurl="file://$PROJECT_DIR$/TimeServerApp/TimeServerApp.iml" filepath="$PROJECT_DIR$/TimeServerApp/TimeServerApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/WHOIS client/WHOIS client.iml" filepath="$PROJECT_DIR$/WHOIS client/WHOIS client.iml" />
